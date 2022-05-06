@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Eman Abdelrahman"
-  avatar           : "profile_pic.jpeg"
-  bio              : "Ph.D. Candidate at the Department of Computer Science, Virginia Tech."
+  avatar           : "profile.png"
+  bio              : "Ph.D. Candidate, Computer Science, Virginia Tech."
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
